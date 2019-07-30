@@ -9,7 +9,7 @@ is created for CRAFT by it's designers:
 https://sites.google.com/view/craftcipher/home
 
 # What this tool is used for?
-This repository contains two files called `main.py` and `craft.py`. The `craft.py` contains a python class named `Craft` which is used to convert the problem 
+This repository contains two main files called `main.py` and `craft.py`. The `craft.py` contains a python class named `Craft` which is used to convert the problem 
 of searching integral distinguisher to an MILP problem. The `Craft` class has also a method called `Solve`, which is used to solve the obtained MILP model via Gurobi. 
 the `main.py` shows how to use the `Craft` class to find an integral distinguisher for CRAFT. To run this tool, just run the following command: 
 
