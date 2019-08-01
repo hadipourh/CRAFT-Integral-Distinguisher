@@ -15,7 +15,9 @@ the `main.py` shows how to use the `Craft` class to find an integral distinguish
 
     python3 main.py
 
-The following figure shows one round of CRAFT, which in `AddTweakey` layer has been removed for simplicity, because adding a constant doesn't change the integral properties. 
+The following figure shows one round of CRAFT, which in `AddTweakey` layer has been removed for simplicity, because adding a constant doesn't change the integral properties.
+
+
 ![Round Function of CRAFT)](https://github.com/hadipourh/CRAFT-Integral-Distinguisher/blob/master/Images/CRAFT-Round-Function.svg)
 
 
